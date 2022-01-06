@@ -44,6 +44,7 @@ a{
 }
 .my-mission{
     text-align: center;
+    font-size: 50px;
 }
 .miss-vis-goal{
     display: flex;
@@ -80,5 +81,6 @@ footer .heaad{
     margin: 0;
 }
 footer .p{
-    margin: ;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 400;
 }
