@@ -1,0 +1,84 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.headline{
+    color: black;
+    font-size: 100px;
+    margin: 0;
+    padding: 0;
+    border-left: 6px solid #03497E;
+    padding: 15px;
+}
+.width{
+    width: 60%;
+}
+span{
+    color: #D96C0D;
+}
+h1{
+    color: black;
+    font-size: 40px;
+}
+a{
+    text-decoration: none;
+    background-color: #1D7D81;
+    color: white;
+    padding: 10px;
+    border-radius: 12px;
+
+}
+.header-section{
+    display: flex;
+    margin: 80px;
+}
+.develop-section{
+    display: flex;
+    margin: 80px;
+}
+.global-section{
+    display: flex;
+    margin: 80px;
+}
+.left-side{
+    width: 50%;
+}
+.my-mission{
+    text-align: center;
+}
+.miss-vis-goal{
+    display: flex;
+}
+.just-mission{
+    background-color: rgba(29, 125, 129, .5);;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+}
+.just-vision{
+    background-color: rgba(242, 168, 29, .5);
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+}
+.just-goals{
+    background-color: rgba(3, 73, 126, .5);;
+    padding: 20px;
+    margin: 20px;
+    border-radius: 20px;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    margin: 0;
+
+}
+footer .heaad{
+    color: white;
+    font-family: 'Dancing Script', cursive;
+    padding: 10px;
+    margin: 0;
+}
+footer .p{
+    margin: ;
+}
