@@ -5,11 +5,12 @@ body{
 .headline{
     color: #03497E;
     font-size: 100px;
-    margin: 0;
-    padding: 10px;
-    border-left: 2px solid #03497E;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    padding-left: 10px;
+    border-left: 5px solid #03497E;
+    border-radius: 5px;
 }
-
 .left-side{
     width: 100%;
 }
@@ -52,7 +53,6 @@ h1{
     display: flex;
     margin: 40px;
 }
-
 .my-mission{
     text-align: center;
     font-size: 50px;
@@ -84,12 +84,6 @@ footer{
     background-color: black;
     color: white;
     text-align: center;
-    margin: 0;
-}
-footer .heaad{
-    color: white;
-    font-family: 'Dancing Script', cursive;
-    padding: 10px;
     margin: 0;
 }
 .build-header{
@@ -133,7 +127,16 @@ footer .heaad{
     color: #03497E;
     margin: 0;
 }
-
+footer{
+    padding: 10px;
+    margin: 0;
+}
+.heaad{
+    color: white;
+    font-family: 'Dancing Script', cursive;
+    padding: 0px;
+    margin: 0;
+}
 footer .p{
     font-family: 'Open Sans', sans-serif;
     font-weight: 400;
