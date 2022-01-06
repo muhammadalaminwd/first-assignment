@@ -2,7 +2,7 @@ body{
     font-family: 'Open Sans', sans-serif;
 }
 .headline{
-    color: black;
+    color: #03497E;
     font-size: 100px;
     margin: 0;
     padding: 0;
@@ -44,6 +44,7 @@ h1{
 .my-mission{
     text-align: center;
     font-size: 50px;
+    color: #03497E;
 }
 .miss-vis-goal{
     display: flex;
@@ -90,10 +91,11 @@ footer .heaad{
 .fa {
     padding: 20px;
     font-size: 60px;
-    width: 80px;
+    width: 60px;
     text-align: center;
     text-decoration: none;
     margin: 20px 5px 30px 5px;
+    border-radius: 10px;
   }
 .fa-facebook {
     background: #3B5998;
@@ -107,8 +109,16 @@ footer .heaad{
   background: #007bb5;
   color: white;
 }
-
-
+.mission-head{
+    background-color: #03497E;
+    border-radius: 12px;
+    color: white;
+    width: fit-content;
+    padding: 4px;
+}
+.work-head{
+    color: #03497E;
+}
 
 footer .p{
     font-family: 'Open Sans', sans-serif;
